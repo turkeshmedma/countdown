@@ -37,6 +37,9 @@
     'website': 'http://www.medma.net',
     'data': ['views/countdown.xml', 'views/templates.xml'],
     'demo_xml': [],
+    'images': [
+        'static/description/icon.png',
+    ],
     'css': [ 'static/src/css/*.css' ],
     'js': ['static/src/js/*.js' ],
     'installable': True,
