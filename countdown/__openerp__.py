@@ -27,7 +27,7 @@
 
 
 {
-    'name': 'Website Countdown',
+    'name': 'Countdown',
     'version': '8.0',
     'category': 'Website',
     'description':"""Countdown Widget""",
