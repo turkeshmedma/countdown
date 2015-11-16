@@ -28,8 +28,9 @@
 
 {
     'name': 'Countdown',
-    'version': '8.0',
+    'version': '1.0',
     'category': 'Website',
+    'summary': 'Website Countdown Widget',
     'description':"""Countdown Widget""",
     'author': 'Medma Infomatix',
     'depends': ['website'],
