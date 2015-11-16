@@ -27,15 +27,19 @@
 
 
 {
-    'name': 'Website Countdown',
-    'version': '8.0',
+    'name': 'Countdown',
+    'version': '1.0',
     'category': 'Website',
+    'summary': 'Website Countdown Widget',
     'description':"""Countdown Widget""",
     'author': 'Medma Infomatix',
     'depends': ['website'],
     'website': 'http://www.medma.net',
     'data': ['views/countdown.xml', 'views/templates.xml'],
     'demo_xml': [],
+    'images': [
+        'static/description/icon.png',
+    ],
     'css': [ 'static/src/css/*.css' ],
     'js': ['static/src/js/*.js' ],
     'installable': True,
