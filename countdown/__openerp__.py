@@ -29,6 +29,7 @@
 {
     'name': 'Countdown',
     'version': '1.0',
+    "license": "AGPL-3",
     'category': 'Website',
     'summary': 'Website Countdown Widget',
     'description':"""Countdown Widget""",
