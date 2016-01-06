@@ -33,6 +33,7 @@
     'description':"""Countdown Widget""",
     'summary': 'Website Countdown Widget',
     'author': 'Medma Infomatix',
+    "license": "AGPL-3",
     'depends': ['website'],
     'website': 'http://www.medma.net',
     'data': ['views/countdown.xml', 'views/templates.xml'],
